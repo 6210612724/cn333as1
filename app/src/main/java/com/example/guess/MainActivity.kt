@@ -28,12 +28,14 @@ class MainActivity : AppCompatActivity() {
         summit = findViewById(R.id.summit)
         hint = findViewById(R.id.hint)
 
+
         randomNumbers()
     }
 
     private fun randomNumbers() {
         val r = Random()
         var number = r.nextInt(1000)
+
         var time = 0
 
         summit.setOnClickListener {

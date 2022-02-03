@@ -1,4 +1,4 @@
-# CN331 Assignment 1 : Number Guessing Game
+# CN333 Assignment 1 : Number Guessing Game
 เป็นเกมที่จะสุ่มเลข 1 - 1000 ให้ผู้ใช้ลองคาดเดาเลขและเมื่อผู้ใช้คาดเดาเลขถูกต้อง เกมจะบอกจำนวนครั้งทั้งหมดที่ผู้ใช้ได้ทำการคาดเดาเลข
 
 ## ภายในเกม
@@ -7,7 +7,7 @@
 - เมื่อผู้ใช้ทำการคาดเดาเลขและกดปุ่ม summit หากถูกต้องจะปรากฎหน้าที่แสดงจำนวนครั้งที่ดาดเดาทั้งหมด และ ปุ่ม เริ่มเล่นเกมใหม่
 
 ## Demo Video Link
-- [Go to Demo Video](https://www.google.com/)
+- [Go to Demo Video](https://youtu.be/s8RNEeiwx20)
 
 ## Developer
 - deverloped by thanawin srisuk 6210612724

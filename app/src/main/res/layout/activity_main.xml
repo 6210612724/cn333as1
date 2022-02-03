@@ -15,11 +15,27 @@
         android:layout_marginStart="122dp"
         android:layout_marginTop="115dp"
         android:layout_marginEnd="116dp"
-        android:text="try to gruess the number"
+        android:text="I'm thinking of from 1-1000"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+
+
+    <TextView
+
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="122dp"
+        android:layout_marginEnd="116dp"
+        android:layout_marginBottom="9dp"
+        android:text="try to gruess the number"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/hint"
